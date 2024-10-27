@@ -52,4 +52,13 @@ Bu repo, C# Eğitim Kampı süresince tamamladığım projeleri içermektedir. H
 - C# ile SQL bağlantısı kurma (ADO.NET)
 - Veri çekme ve listeleme işlemleri
 
-Bu projeler, C# programlama dilinin temel yapı taşlarını öğrenmek ve pekiştirmek için tasarlanmıştır. Her bir proje, konuyla ilgili teorik bilgilerin yanı sıra pratik uygulamaları da içermektedir.
+📍 **Proje 10: C# ile SQL Listeleme, Ekleme, Güncelleme ve Silme İşlemleri**
+- SQL veritabanı bağlantısı
+- Veri listeleme (SELECT)
+- Veri ekleme (INSERT)
+- Veri güncelleme (UPDATE)
+- Veri silme (DELETE)
+- ADO.NET kullanımı
+- Parametre kullanımı ve SQL enjeksiyonu önleme
+
+Bu projeler, C# programlama dilinin temel yapı taşlarını öğrenmek ve pekiştirmek için tasarlanmıştır. Her bir proje, konuyla ilgili teorik bilgilerin yanı sıra pratik uygulamaları da içermektedir. Özellikle son iki proje, veritabanı işlemleri ve SQL entegrasyonu konularında pratik deneyim sağlamaktadır.

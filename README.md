@@ -46,5 +46,10 @@ Bu repo, C# Eğitim Kampı süresince tamamladığım projeleri içermektedir. H
 - Değer döndüren metotlar
 - Overloading kavramı
 
-Bu projeler, C# programlama dilinin temel yapı taşlarını öğrenmek ve pekiştirmek için tasarlanmıştır. Her bir proje, konuyla ilgili teorik bilgilerin yanı sıra pratik uygulamaları da içermektedir.
+📍 **Proje 9: SQL Veri Tabanı ve Tablo Oluşturma, C# Kısmına Bağlama**
+- SQL veritabanı oluşturma
+- Tablo yapılandırma
+- C# ile SQL bağlantısı kurma (ADO.NET)
+- Veri çekme ve listeleme işlemleri
 
+Bu projeler, C# programlama dilinin temel yapı taşlarını öğrenmek ve pekiştirmek için tasarlanmıştır. Her bir proje, konuyla ilgili teorik bilgilerin yanı sıra pratik uygulamaları da içermektedir.

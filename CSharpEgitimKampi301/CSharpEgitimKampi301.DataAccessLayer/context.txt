@@ -1,0 +1,5 @@
+﻿1.Context -> code first projelerinde bizim veritabanı bağlantı adresimizi tuttuğumuz ve veritabanına yansıyacak olan 
+tabloları tuttuğumuz bir sınıf görevi görüyo.
+
+2.DataAccessLayer içinde context -> CampContext.cs
+ - 
